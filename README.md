@@ -1,0 +1,1 @@
+Implementation of the recombinator neural network for pixelwise dense classification on Kaggle Ultrasound Nerve Segmentation task. This notebook gets to 0.55 on the public leaderboard. Lasagne/Theano implementation. 
